@@ -1,0 +1,36 @@
+algorithm to determine the length of the sentence:
+
+start
+get the sentence='this is my checkpoint project.'
+get a variable length=0
+count the number of characters in sentence
+for each count let length=length+1
+end the count at period
+get the final value of length
+end
+
+algorithm to determine the number of words in the sentence:
+
+start
+get the sentence='this is my checkpoint project.'
+get a variable word=0
+count the number of words in sentence
+for each count let word=word+1
+end the count at the period
+get the final value of word
+end
+
+algorithm to determine the number of vowels in the sentence:
+
+start
+get the sentence='this is my checkpoint project.'
+get a variable each=0
+get a variable vowels=a,e,i,o,u
+count the number of vowels in sentence
+for each count let each=each+1
+end count at the period
+get the final value of each
+end
+
+
+
